@@ -1,6 +1,6 @@
 # Gold Price Forecasting using ARIMA and SARIMA
 
-This project focuses on forecasting the price of gold using time series analysis techniques, specifically ARIMA and SARIMA models. The gold price data was obtained from the yfinance library. *An interactive web application has also been developed using Streamlit to demonstrate the forecasting capabilities.*
+This project focuses on forecasting the price of gold using time series analysis techniques, specifically ARIMA and SARIMA models. The gold price data was obtained from the yfinance library. An interactive web application has also been developed using Streamlit to demonstrate the forecasting capabilities.
 
 ## Table of Contents
 
@@ -163,13 +163,16 @@ pip install pandas numpy matplotlib seaborn statsmodels yfinance scikit-learn
 
 If you want to deploy or share the project, use this for your `requirements.txt`:
 
-```
-
 streamlit
+
 pandas
+
 matplotlib
+
 statsmodels
+
 yfinance
+
 python-dateutil
 
 
@@ -182,5 +185,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 Developed by **\Mohammadi Nilofer**
+
 📧 niloferm7@yahoo.com
+
 🌐 https://github.com/Mohammadi-Nilofer/Time_Series_Sarima_Gold_model
