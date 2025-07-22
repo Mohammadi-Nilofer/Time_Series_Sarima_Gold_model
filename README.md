@@ -136,7 +136,7 @@ Once the models were trained, they were used to forecast gold prices for a speci
 ├── requirements.txt         # Required packages
 └── README.md                # Project overview
 
-
+```
 
 ## 🧰 Technologies Used
 
@@ -158,7 +158,7 @@ cd gold-price-forecasting
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn statsmodels yfinance scikit-learn
-
+```
 ## 📌 `requirements.txt`
 
 If you want to deploy or share the project, use this for your `requirements.txt`:
