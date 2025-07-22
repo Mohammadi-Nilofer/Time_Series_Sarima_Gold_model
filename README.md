@@ -173,7 +173,7 @@ statsmodels
 
 yfinance
 
-python-dateutil
+python
 
 
 ## 📄 License
